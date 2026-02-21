@@ -1,3 +1,5 @@
+package estruturaDeDados.exemplosAulas;
+
 import java.util.Scanner;
 
 public class TadNumero {

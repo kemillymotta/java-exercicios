@@ -1,4 +1,4 @@
-package arrays;
+package arrays.exemplosAulas;
 
 import java.util.*;
 

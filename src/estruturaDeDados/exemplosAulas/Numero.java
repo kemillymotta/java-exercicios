@@ -1,3 +1,5 @@
+package estruturaDeDados.exemplosAulas;
+
 public class Numero {
 
     // construtor para iniciar valor no 0
