@@ -13,7 +13,7 @@ Os códigos estão organizados por tipo de conteúdo.
 📁 exercicios  
 Exercícios propostos em aulas, cursos ou listas de prática.
 
-📁 exemplos-aulas  
+📁 exemplosAulas  
 Códigos feitos acompanhando as aulas, normalmente para testar conceitos específicos da linguagem.
 
 📁 desafios  
