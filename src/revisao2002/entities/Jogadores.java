@@ -1,13 +1,13 @@
 package revisao2002.entities;
 
-public class jogadores {
+public class Jogadores {
 
     private String nome;
     private int idade;
     private String posicao;
     private int gols;
 
-    public jogadores(String nome, int idade, String posicao, int gols) {
+    public Jogadores(String nome, int idade, String posicao, int gols) {
         this.nome = nome;
         this.idade = idade;
         this.posicao = posicao;
