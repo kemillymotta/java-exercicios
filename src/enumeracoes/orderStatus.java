@@ -1,6 +1,6 @@
 package enumeracoes;
 
-public enum OrderStatus {
+public enum orderStatus {
 
     PENDING_PAYMENT,
     PROCESSING,

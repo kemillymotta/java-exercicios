@@ -5,13 +5,13 @@ import java.util.Date;
 public class Program {
     public static void main(String[] args) {
 
-        Order order = new Order(1000, new Date(), OrderStatus.PENDING_PAYMENT);
+        Order order = new Order(1000, new Date(), orderStatus.PENDING_PAYMENT);
 
         System.out.println(order);
 
-        OrderStatus os1 = OrderStatus.DELIVERED;
+        orderStatus os1 = orderStatus.DELIVERED;
 
-        OrderStatus os2 = OrderStatus.valueOf("DELIVERED");
+        orderStatus os2 = orderStatus.valueOf("DELIVERED");
 
         System.out.println(os1);
         System.out.println(os2);
