@@ -1,4 +1,4 @@
-package ExArrays;
+package arrays;
 
 import java.util.*;
 

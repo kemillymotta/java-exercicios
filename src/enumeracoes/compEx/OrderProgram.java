@@ -51,8 +51,6 @@ public class OrderProgram {
 
             System.out.println(order);
 
-
-
             sc.close();
         }
     }
