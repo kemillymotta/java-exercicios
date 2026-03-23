@@ -1,4 +1,4 @@
-package herança.entities;
+package herancaPolimorfismo.entities;
 
 public class SavingsAccountPlus extends SavingsAccount {
 
