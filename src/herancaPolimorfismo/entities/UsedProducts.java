@@ -29,4 +29,5 @@ public class UsedProducts extends Products {
                 + manufactureDate.format(DateTimeFormatter.ofPattern("dd/MM/yyyy"))
                 + ")";
     }
+
 }

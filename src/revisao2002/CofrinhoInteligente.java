@@ -2,7 +2,7 @@ package revisao2002;
 
 import java.util.*;
 
-public class CofrinhoInteligente {
+public class    CofrinhoInteligente {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in); {
 
